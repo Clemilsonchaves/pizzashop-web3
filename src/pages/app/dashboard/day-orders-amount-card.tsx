@@ -25,6 +25,7 @@ export function DayOrdersAmountCard() {
       </CardHeader>
       <CardContent className="space-y-1">
         {dayOrdersAmount ? (
+          
           <>
             <span className="text-2xl font-bold">
               {dayOrdersAmount.amount.toLocaleString('pt-BR')}
