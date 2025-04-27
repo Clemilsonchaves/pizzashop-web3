@@ -10,7 +10,7 @@ import { queryClient } from './lib/react-query'
 import { router } from './routes'
 
 export function App() {
-  return (
+  return ( 
     <HelmetProvider>
       <Helmet titleTemplate="%s | pizza.shop" />
       <ThemeProvider defaultTheme="light" storageKey="ifood-theme">

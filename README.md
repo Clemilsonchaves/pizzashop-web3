@@ -38,6 +38,6 @@ Dashboard para gestão do estabelecimento e controle de pedidos estilo iFood.
   - Gráfico de valores nos últimos 15 dias;
   - Média de avaliações (mês/geral);
   - Média de pedidos por dia (mês/geral);
-- Notificações sonoras de novos pedidos (alterar favicon).
+- Notificações sonoras de novos pedidos (alterar favicon). 
 
 
